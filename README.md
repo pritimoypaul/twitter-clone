@@ -11,4 +11,6 @@ Some features:
 
 ## Preview
 
-Preview live on [Twitter Clone](http://###)
+![](img/preview.png)
+
+Preview live on [Twitter Clone](https://twitter-clone-blue-omega.vercel.app/)
